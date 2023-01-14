@@ -9,4 +9,4 @@ Working:
 ---
 Improvement required in encoder to make unique encodings of fingerprint
 --
-This project is a collaborative effort by @dgoel200113 @5hv5hvnk @rohanMatta101 @kartikg02
+This project is a collaborative effort by [@dgoel200113](https://github.com/dgoel200113) [@5hv5hvnk](https://github.com/5hv5hvnk) [@rohanMatta101](https://github.com/rohanMatta101) [@kartikg02](https://github.com/kartikg02)
