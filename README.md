@@ -8,3 +8,5 @@ Working:
 4. Use backend saved model to find cosine similarity.
 ---
 Improvement required in encoder to make unique encodings of fingerprint
+--
+This project is a collaborative effort by @dgoel200113 @5hv5hvnk @rohanMatta101 @kartikg02
